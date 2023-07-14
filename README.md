@@ -14,11 +14,11 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ## [Portfolio](https://jhonriosportfolio.vercel.app/)
 
-[![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-[![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-[![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)](https://react.dev/)
-[![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)](https://nextjs.org/)
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
+![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
+![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
 Here are some ideas to get you started:
 
