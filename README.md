@@ -22,6 +22,14 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ![Screenshot](https://media.licdn.com/dms/image/D4E2DAQGgoLWN0rzr3A/profile-treasury-image-shrink_800_800/0/1689185752702?e=1689912000&v=beta&t=ivXf91DDSwqtRaL5bPDFMjcvk16YmB9OrMY2F5qLZDk)
 
+## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
+
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![Static Badge](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
+
+![Screenshot](https://media.licdn.com/dms/image/D4E22AQE-ScY9HtvD-A/feedshare-shrink_2048_1536/0/1689028733555?e=1692230400&v=beta&t=lOCgpkzxFx0dhZrEHIwLwRYn1WwJdGrCRCTMvKTgAds)
+
 Here are some ideas to get you started:
 
 - ✨
