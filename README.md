@@ -20,6 +20,8 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
+![Screenshot](https://media.licdn.com/dms/image/D4E2DAQGgoLWN0rzr3A/profile-treasury-image-shrink_800_800/0/1689185752702?e=1689912000&v=beta&t=ivXf91DDSwqtRaL5bPDFMjcvk16YmB9OrMY2F5qLZDk)
+
 Here are some ideas to get you started:
 
 - ✨
