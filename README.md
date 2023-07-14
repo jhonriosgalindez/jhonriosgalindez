@@ -20,25 +20,24 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
-![Screenshot](https://media.licdn.com/dms/image/D4E2DAQGgoLWN0rzr3A/profile-treasury-image-shrink_800_800/0/1689185752702?e=1689912000&v=beta&t=ivXf91DDSwqtRaL5bPDFMjcvk16YmB9OrMY2F5qLZDk)
+[![jhonriosportfolio-vercel-app.png](https://i.postimg.cc/DzHTGJ7F/jhonriosportfolio-vercel-app.png)](https://postimg.cc/kVQz35Vh)
 
 ## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
 
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
-![Static Badge](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
+![SCSS](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
 
 ![Screenshot](https://media.licdn.com/dms/image/D4E22AQE-ScY9HtvD-A/feedshare-shrink_2048_1536/0/1689028733555?e=1692230400&v=beta&t=lOCgpkzxFx0dhZrEHIwLwRYn1WwJdGrCRCTMvKTgAds)
 
-Here are some ideas to get you started:
+## [Green Fruit Store](https://green-fruit-store.vercel.app/)
 
-- ✨
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
+![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-00bd95?logo=webpack)
+![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
+![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
+
+![Screenshot](https://media.licdn.com/dms/image/D4E22AQE-ScY9HtvD-A/feedshare-shrink_2048_1536/0/1689028733555?e=1692230400&v=beta&t=lOCgpkzxFx0dhZrEHIwLwRYn1WwJdGrCRCTMvKTgAds)
+
