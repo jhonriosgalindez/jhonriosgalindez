@@ -20,7 +20,7 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
-[![jhonriosportfolio-vercel-app.png](https://i.postimg.cc/DzHTGJ7F/jhonriosportfolio-vercel-app.png)](https://postimg.cc/kVQz35Vh)
+[![jhonriosportfolio-vercel-app.png](https://i.postimg.cc/pXdbTJt4/jhonriosportfolio-vercel-app.png)](https://postimg.cc/QVvnY5CJ)
 
 ## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
 
