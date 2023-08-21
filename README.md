@@ -23,10 +23,9 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
 
-![SCSS](https://img.shields.io/badge/SCSS-Preprocessor%20CSS-%23CC6699?logo=sass
+![SCSS](https://img.shields.io/badge/SCSS-Preprocessor%20CSS-%23CC6699?logo=sass)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
-)
 
 ## [Green Fruit Store](https://green-fruit-store.vercel.app/)
 
