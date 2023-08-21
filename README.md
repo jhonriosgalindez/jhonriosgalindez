@@ -14,31 +14,31 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ## [Portfolio](https://jhonriosportfolio.vercel.app/)
 
-![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
-![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
-![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/ReactJS-Library-61DAFB?logo=react)
+![Next](https://img.shields.io/badge/NextJS-Framework-000000?logo=next.js)
 
 ## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
 
-![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
 
 ## [Green Fruit Store](https://green-fruit-store.vercel.app/)
 
-![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
-![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-00bd95?logo=webpack)
-![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
-![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
+![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-8DD6F9?logo=webpack)
+![React](https://img.shields.io/badge/ReactJS-Library-61DAFB?logo=react)
+![Next](https://img.shields.io/badge/NextJS-Framework-000000?logo=next.js)
 
 ## [Tesla](https://jhonrios-tesla-landing.netlify.app/)
 
-![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework%20CSS-%2306B6D4?logo=tailwindcss
 )
