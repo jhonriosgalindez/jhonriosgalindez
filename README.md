@@ -20,15 +20,11 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
-![jhonriosportfolio-vercel-app.png](https://media.licdn.com/dms/image/D4E2DAQFdgbGE6QWoGQ/profile-treasury-image-shrink_800_800/0/1689341352308?e=1689948000&v=beta&t=gx5A3NK1gBaM4tGi0HAUVSFHmXq56-YF3Jv6j7e18nE)
-
 ## [Azami Restaurant](https://jhon-rios-azami-restaurant.netlify.app/)
 
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
-
-![Screenshot](https://media.licdn.com/dms/image/D4E2DAQEDdCuOfAB5Ww/profile-treasury-image-shrink_800_800/0/1689341386446?e=1689948000&v=beta&t=U3_v9WC89W4L1pvpldAJ3Jf0psbYB0BjWZUUj5l-bkE)
 
 ## [Green Fruit Store](https://green-fruit-store.vercel.app/)
 
@@ -38,6 +34,4 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-00bd95?logo=webpack)
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
-
-![Screenshot](https://media.licdn.com/dms/image/D4E2DAQFEP0ab9QKjtQ/profile-treasury-image-shrink_800_800/0/1689341405765?e=1689948000&v=beta&t=dDG_TXJ8bpAcIgrum2tlFoQWbo_anni4jRmdYiZQCC0)
 
