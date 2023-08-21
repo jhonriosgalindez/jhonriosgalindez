@@ -35,3 +35,10 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![React](https://img.shields.io/badge/ReactJS-Library-00bd95?logo=react)
 ![Next](https://img.shields.io/badge/NextJS-Framework-00bd95?logo=next.js)
 
+## [Green Fruit Store](https://jhonrios-tesla-landing.netlify.app/)
+
+![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=tailwindcss)
+
