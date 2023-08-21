@@ -10,7 +10,7 @@ I am also a Civil Engineer by profession and a Geek at heart, I've worked in the
 
 In this new role and challenge in my life, I have carried out personal projects, mainly with technologies such as JavaScript, ReactJS and NextJS. Technology is my passion and the path that I have decided to turn into my job and hobby. I would love to be able to work on projects whose stack involves React to deepen and contribute my knowledge in the continuous development of the startup that creates new talent.
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Social%20Network&color=00bd95)](https://www.linkedin.com/in/jhon-rios-galindez/)&nbsp;
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Social%20Network&color=0A66C2)](https://www.linkedin.com/in/jhon-rios-galindez/)&nbsp;
 
 ## [Portfolio](https://jhonriosportfolio.vercel.app/)
 
