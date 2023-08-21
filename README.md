@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bd95&width=650&lines=Jhon+Rios+-+Frontend+Developer;HTML+%2F+CSS+%2F+SaSS+%2F+JavaScript+%2F+React.js+%2F+Next.js" alt="Typing SVG" /></a>
 </p>
 
-Welcome. I am a frontend developer. Working with HTML, CSS, SCSS, JavaScript, Webpack, ReactJS and NextJS.
+Welcome. I am a frontend developer. Working with HTML, CSS, SCSS, JavaScript, Webpack, ReactJS and NextJS. Now, I include the Astro Framework and tailwind as a CSS's framework.
 
 I am also a Civil Engineer by profession and a Geek at heart, I've worked in the construction field for 6 years, however, I decided to make a change in my life in search of great opportunities. Three years ago I made the decision to venture into the world of software development, a few weeks later, I fell in love with web development, specifically the path as a Frontend Developer.
 
