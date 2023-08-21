@@ -44,4 +44,6 @@ In this new role and challenge in my life, I have carried out personal projects,
 ![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework%20CSS-%2306B6D4?logo=tailwindcss
 )
+![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
+![Astro](https://img.shields.io/badge/Astro-Framework-%23BC52EE?logo=astro)
 
