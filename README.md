@@ -24,7 +24,7 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-Sass-00bd95?logo=sass)
+![SCSS](https://img.shields.io/badge/SCSS-Sass-CC6699?logo=sass)
 
 ## [Green Fruit Store](https://green-fruit-store.vercel.app/)
 
