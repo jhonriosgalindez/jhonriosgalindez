@@ -39,7 +39,7 @@ In this new role and challenge in my life, I have carried out personal projects,
 
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-00bd95?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-00bd95?logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-Language-00bd95?logo=javascript)
+![JS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework%20CSS-%2306B6D4?logo=tailwindcss
 )
 
