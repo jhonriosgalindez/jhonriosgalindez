@@ -31,10 +31,8 @@ Technology is not just my career; it is my passion. I am driven by the challenge
 
 ## [Credit Simulator](https://credit-simulator-plum.vercel.app/)
 
-![Vite](https://img.shields.io/badge/NextJS-Framework-000000?logo=vite.js)
 ![React](https://img.shields.io/badge/ReactJS-Library-61DAFB?logo=react)
 ![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-8DD6F9?logo=webpack)
-![TS](https://img.shields.io/badge/JavaScript-Language-F7DF1E?logo=typescript)
 ![CSS3](https://img.shields.io/badge/CSS5-Cascading%20Style%20Sheets-1572B6?logo=css3)
 ![HTML](https://img.shields.io/badge/HTML5-Foundation%20Code%20v5-E34F26?logo=html5)
 
