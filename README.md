@@ -1,7 +1,7 @@
 # Jhon Rios [![email](https://img.shields.io/static/v1?label=email&message=r.jhonf@gmail.com&color=00bd95)](mailto:r.jhonf@gmail.com)&nbsp;
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bd95&width=650&lines=Jhon+Rios+-+Full Stack+Developer+-+IA+Engineer;HTML+%2F+CSS+%2F+SaSS+%2F+JavaScript+%2F+React.js+%2F+Next.js" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bd95&width=650&lines=Jhon+Rios+-+Full+Stack+Developer+-+IA+Engineer;HTML+%2F+CSS+%2F+SaSS+%2F+JavaScript+%2F+React.js+%2F+Next.js" alt="Typing SVG" /></a>
 </p>
 
 Welcome. I am a frontend developer. Working with HTML, CSS, SCSS, JavaScript, TypeScript, Webpack, ReactJS and NextJS. Now, I include the Astro Framework and tailwind as a CSS's framework.
