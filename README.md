@@ -4,11 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bd95&width=650&lines=Jhon+Rios+-+Full+Stack+Developer+-+IA+Engineer;HTML+%2F+CSS+%2F+TS+%2F+JS+%2F+React.js+%2F+Next.js+%2F+Node.js;Python+%2F+TF+%2F+ScikitLearn+%2F+Numpy+%2F+PowerBI+%2F+SQL" alt="Typing SVG" /></a>
 </p>
 
-Welcome. I am a frontend developer. Working with HTML, CSS, SCSS, JavaScript, TypeScript, Webpack, ReactJS and NextJS. Now, I include the Astro Framework and tailwind as a CSS's framework.
+Welcome. I am a Full Stack Developer and AI Engineer passionate about bridging the gap between cutting-edge artificial intelligence and seamless web experiences.
 
-I am also a Civil Engineer by profession and a Geek at heart, I've worked in the construction field for 6 years, however, I decided to make a change in my life in search of great opportunities. Three years ago I made the decision to venture into the world of software development, a few weeks later, I fell in love with web development, specifically the path as a Frontend Developer.
+Three years ago, I channeled my inner geek into software development and quickly fell in love with architecting digital solutions. Today, my expertise spans from crafting intuitive frontend experiences to building robust full-stack systems and integrating advanced AI capabilities.
 
-In this new role and challenge in my life, I have carried out personal projects, mainly with technologies such as JavaScript, ReactJS and NextJS. Technology is my passion and the path that I have decided to turn into my job and hobby. I would love to be able to work on projects whose stack involves React to deepen and contribute my knowledge in the continuous development of the startup that creates new talent.
+On the frontend, I specialize in building modern, efficient interfaces using JavaScript, TypeScript, ReactJS, NextJS, Astro, and Tailwind CSS. Beyond the UI, my core specialization lies in optimizing Large Language Models (LLMs) and scaling robust backend infrastructures through LLMOps.
+
+Technology is not just my career; it is my passion. I am driven by the challenge of building scalable solutions that seamlessly integrate powerful AI into intuitive user experiences. I am eager to contribute my expertise in LLM optimization, full-lifecycle software development, and modern web frameworks to forward-thinking tech initiatives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Social%20Media-%230A66C2?logo=linkedin
 )](https://www.linkedin.com/in/jhon-rios-galindez/)&nbsp;
