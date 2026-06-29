@@ -1,6 +1,6 @@
 # Jhon Rios [![email](https://img.shields.io/static/v1?label=email&message=r.jhonf@gmail.com&color=00bd95)](mailto:r.jhonf@gmail.com)&nbsp;
 
-<p align="center">
+<p align="justify">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bd95&width=650&lines=Jhon+Rios+-+Full+Stack+Developer+-+IA+Engineer;HTML+%2F+CSS+%2F+TypeScript+%2F+JavaScript+%2F+React.js+%2F+Next.js+%2F+Node.js;Python+%2F+TensorFlow+%2F+ScikitLearn+%2F+Numpy+%2F+PowerBI+%2F+SQL" alt="Typing SVG" /></a>
 </p>
 
